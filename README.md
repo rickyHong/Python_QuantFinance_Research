@@ -1,3 +1,5 @@
+https://github.com/topics/portfolio-optimization?o=asc&s=updated
+
 Python Quantitative Finance Research
 
 Python based Quant Finance Models, Tools and Algorithmic Application and Decision Making
